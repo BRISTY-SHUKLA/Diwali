@@ -10,5 +10,5 @@
 ![4](https://github.com/BRISTY-SHUKLA/Diwali_Sales_Analysis_Python_Proj/assets/101013518/d0dd60e1-b930-401f-9dd5-bb312a9815c0)
 
 ## Copy 
-#Youtube Project From Rishab Sir 
-#Project Link -----   https://www.youtube.com/watch?v=KgCgpCIOkIs&t=1891s
+##Youtube Project From Rishab Sir 
+##Project Link -----   https://www.youtube.com/watch?v=KgCgpCIOkIs&t=1891s
